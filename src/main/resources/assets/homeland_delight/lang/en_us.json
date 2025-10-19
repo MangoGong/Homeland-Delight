@@ -1,0 +1,13 @@
+{
+  "itemGroup.homeland_delight": "Example Mod Tab",
+  "block.homeland_delight.example_block": "Example Block",
+  "item.homeland_delight.example_item": "Example Item",
+
+  "homeland_delight.configuration.title": "Homeland Delight Configs",
+  "homeland_delight.configuration.section.homeland_delight.common.toml": "Homeland Delight Configs",
+  "homeland_delight.configuration.section.homeland_delight.common.toml.title": "Homeland Delight Configs",
+  "homeland_delight.configuration.items": "Item List",
+  "homeland_delight.configuration.logDirtBlock": "Log Dirt Block",
+  "homeland_delight.configuration.magicNumberIntroduction": "Magic Number Text",
+  "homeland_delight.configuration.magicNumber": "Magic Number"
+}
